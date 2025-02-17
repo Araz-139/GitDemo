@@ -57,3 +57,5 @@ class TestOne(BaseClass):
         """
         # let's assert with partial text content
         assert "Fail" in success_text
+
+print("the test is done - this line is for git tutorial")
